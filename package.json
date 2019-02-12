@@ -1,0 +1,11 @@
+{
+  "name": "solhint-plugin-test-precise-uint",
+  "version": "0.0.4",
+  "description": "A simple test",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "clemlak",
+  "license": "MIT"
+}
